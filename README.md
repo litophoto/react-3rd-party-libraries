@@ -1,2 +1,2 @@
-# react-framework-example
-Examples of third party React Framework
+# react-3rd-party-libraries
+Examples of third party library on React Framework
